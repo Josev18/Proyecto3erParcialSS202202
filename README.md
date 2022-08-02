@@ -9,7 +9,7 @@ Proyecto final para la clase de Seminario de Software 2022 2do periodo academico
 5.Kevin Agustin Lopez Hernandez #0801199905448<br />
 6.Oscar Oswaldo Herrera Valladares #0719199601141
 -----------
-🔧⚙️💻PASOS PARA EJECUTAR EL PROYECTO💻📋📌
+🔧⚙️💻PASOS PARA EJECUTAR EL PROYECTO💻📋📌<br />
 cd backend
 npm install
 
