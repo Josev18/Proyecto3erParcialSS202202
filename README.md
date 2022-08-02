@@ -3,7 +3,7 @@ Proyecto final para la clase de Seminario de Software 2022 2do periodo academico
 --------------------------------------------------------------------------------
 👨🏽‍🦱👨🏽‍🦱👨🏽INTEGRANTES👨🏽‍🦱👩🏽👩🏽
 -------------------------
-1.Angel Chuy Cho #0801200010132
+1.Angel Chuy Cho #0801200010132<br />
 2.Karla Gissel Lopez Caceres #0318200301323
 3.José Ruben Varela Rodriguez #0801200002268
 4.Denia Julissa Chavarria Lopez #0318200201281
