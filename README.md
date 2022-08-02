@@ -8,6 +8,7 @@ Proyecto final para la clase de Seminario de Software 2022 2do periodo academico
 4.Denia Julissa Chavarria Lopez #0318200201281
 5.Kevin Agustin Lopez Hernandez #0801199905448
 6.Oscar Oswaldo Herrera Valladares #0719199601141
+
 -----------
 🔧⚙️💻PASOS PARA EJECUTAR EL PROYECTO💻📋📌
 cd backend
