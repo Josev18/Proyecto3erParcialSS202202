@@ -11,17 +11,13 @@ Proyecto final para la clase de Seminario de Software 2022 2do periodo academico
 --------------------------------------------------------------------------------
 🔧⚙️💻PASOS PARA EJECUTAR EL PROYECTO💻📋📌<br />
 
-cd backend
-npm install
-
-cd frontend
-npm install
-
-modificar archivo .env añadiendo link de mongouri con el nombre de la bd deseado
-y JWT_SECRETKEY
-
-NPM RUN SERVER
-
-NPM RUN CLIENT
+1.cd backend<br />
+2.npm install<br />
+3.cd frontend<br />
+4.npm install<br />
+5.modificar archivo .env añadiendo link de mongouri con el nombre de la bd deseado<br />
+y JWT_SECRETKEY<br />
+6.NPM RUN SERVER<br />
+7.NPM RUN CLIENT
 
 --------------------------------------------------------------------------------
